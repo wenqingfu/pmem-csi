@@ -40,13 +40,13 @@ require (
 	gopkg.in/freddierice/go-losetup.v1 v1.0.0-20170407175016-fc9adea44124
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.0 // indirect
-	k8s.io/api v0.0.0
+	k8s.io/api v0.17.0
 	k8s.io/apimachinery v0.17.0
-	k8s.io/client-go v0.0.0
-	k8s.io/component-base v0.0.0
+	k8s.io/client-go v0.17.0
+	k8s.io/component-base v0.17.0
 	k8s.io/klog v1.0.0
 	k8s.io/kube-openapi v0.0.0-20190918143330-0270cf2f1c1d // indirect
-	k8s.io/kubernetes v0.0.0-00010101000000-000000000000
+	k8s.io/kubernetes v1.16.0
 	k8s.io/utils v0.0.0-20190801114015-581e00157fb1
 )
 
